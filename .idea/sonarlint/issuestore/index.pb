@@ -13,3 +13,7 @@ Y
 )src/HashSet/InterSectionOfTwoHashSet.java,5\2\527b21c4014afc268b686cc9a1ed0767b6fb98fc
 Y
 )src/HashSet/SpaceficElementExitOrNot.java,1\d\1dc04288c2057d107d34b37bea106fbe47e2f3a7
+[
++src/Lambda_Expressions/SimpleInterface.java,a\f\af7a1bc68569324f8f7e3d1fd81efccc62422f0d
+_
+/src/Lambda_Expressions/AnonymousInnerClass.java,a\8\a8976eea601838a9c6c116a99bb633a354644d0a
