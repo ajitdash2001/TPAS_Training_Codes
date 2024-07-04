@@ -29,3 +29,21 @@ Q
 ,src/Functional_Interfaces/MathOperation.java,f\1\f1a4919d9957c67cc9ab6d08310be517fe503a42
 `
 0src/Functional_Interfaces/SortBasedOnLength.java,1\d\1d2b148df4531a87f272f09b29daedd2e58eae93
+h
+8src/MethodReferences/demonstrates_method_references.java,6\6\667d9a86fde03e35726232518dc9672ccf46aa41
+Y
+)src/MethodReferences/instancematheod.java,c\4\c40dea6cbfe5ab07e3adc6613fda624c2ec08f66
+Z
+*src/Optional/HandelPotentialNullValue.java,0\c\0c460ec40ec0b1d252b38fb464d3bf7763963c8a
+U
+%src/Optional/RetriveValueFromMap.java,d\9\d9c9f12a283da6244a86c0a3bb819aa2b6e23238
+`
+0src/DefaultMethods/DefaultMethodInInterface.java,c\3\c32d5931a8ff002316ebd414f26aeb3c9a647bd7
+O
+src/DefaultMethods/Vehicle.java,a\6\a69a2fff221ea83af1ea833993f0c2cb8c0a9ec7
+n
+>src/DefaultMethods/MultipleInheritanceUseiongDefultMethod.java,2\1\21abe46503c7acd5e7da806bacd36a391c797bf8
+R
+"src/DefaultMethods/InterfaceA.java,6\b\6b0fcb8eac907f865d98b58c25526e2dbcbfb4c1
+R
+"src/DefaultMethods/InterfaceB.java,7\8\78e435181d9889beb9fe0c646466fb10ce294b5b
