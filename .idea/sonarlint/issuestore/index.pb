@@ -23,3 +23,9 @@ M
 src/Streams/StreamsToMap.java,3\4\34bef9011d6708bf1aa493f217b81284f8a6d43d
 Q
 !src/Streams/StreamsToMaximam.java,f\2\f2ae7fbca6d6842d0bc66c5a4a617354ab85b0ac
+`
+0src/Functional_Interfaces/custom_functional.java,8\a\8adae1da97fbbd84f77712e642b90292b3740c7b
+\
+,src/Functional_Interfaces/MathOperation.java,f\1\f1a4919d9957c67cc9ab6d08310be517fe503a42
+`
+0src/Functional_Interfaces/SortBasedOnLength.java,1\d\1d2b148df4531a87f272f09b29daedd2e58eae93
