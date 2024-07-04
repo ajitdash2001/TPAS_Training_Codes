@@ -17,3 +17,9 @@ Y
 +src/Lambda_Expressions/SimpleInterface.java,a\f\af7a1bc68569324f8f7e3d1fd81efccc62422f0d
 _
 /src/Lambda_Expressions/AnonymousInnerClass.java,a\8\a8976eea601838a9c6c116a99bb633a354644d0a
+P
+ src/Streams/StreamsToFilter.java,f\4\f4a221eb2ad1ed251dad2044b1006891b759e3f1
+M
+src/Streams/StreamsToMap.java,3\4\34bef9011d6708bf1aa493f217b81284f8a6d43d
+Q
+!src/Streams/StreamsToMaximam.java,f\2\f2ae7fbca6d6842d0bc66c5a4a617354ab85b0ac
