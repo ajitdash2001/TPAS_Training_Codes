@@ -1,0 +1,10 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ü¿”þùÿÿÿÿ8çÝïê‡2J$7dd00686-1043-49b3-8b81-cf269a544a96
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸‹è¯8ìÝïê‡2J$e8843c9b-4d43-463a-8c5e-d2d1caa7c9a6
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8þÝïê‡2J$13ee4674-e8dc-4121-98b7-7a2275c83175
+r	java:S106"+Replace this use of System.out by a logger.(ÿûŸÅýÿÿÿÿ8€Þïê‡2J$88365d86-9d64-47e7-8bf6-f4252207a4d0
+r	java:S106"+Replace this use of System.out by a logger.(âÐ„»þÿÿÿÿ8‚Þïê‡2J$25fc3b69-9b09-452f-9223-7708d01a0347
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(²ý…¦ûÿÿÿÿ8„Þïê‡2J$d99aee49-ed17-4e39-9b62-9ef4be6f84da
+r	java:S106"+Replace this use of System.out by a logger.(œæçýúÿÿÿÿ8…Þïê‡2J$f15e3513-98db-49d5-8089-80338d57012d

@@ -1,0 +1,13 @@
+
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "Task " 3 times.(ßÀÔú8ÌÎí‡2J$e1e0210c-ddb1-49b4-b88f-7bd6991588f2
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦›’Ïüÿÿÿÿ8§áéì‡2J$f64e6ca1-5e34-41f2-88b1-4b11d5dee9ac
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÂ‘­øÿÿÿÿJ$6a5a1c31-dcc0-49e7-9c71-c838b27d0699
+m	java:S106"+Replace this use of System.out by a logger.(ßÀÔú8ÔÎí‡2J$eba1bd47-8bbc-4ebd-a273-c7d8995b1e5a
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÕÎí‡2J$9ed7a857-e24e-4d9b-892d-a0917e1a3f3f
+r	java:S106"+Replace this use of System.err by a logger.(‹à•îşÿÿÿÿ8ÕÎí‡2J$24f6e2d3-a3d4-460a-ab41-dc07cb2e0f97
+r	java:S106"+Replace this use of System.out by a logger.(‹ÚÆáúÿÿÿÿ8ÕÎí‡2J$0e0dd253-bfec-436f-b1d1-16af4e1c638a
+¡
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¬Ã¨í‡2J$1ea30359-f1a0-4bb0-b299-c9ac1dc0f50b
+m	java:S106/"+Replace this use of System.out by a logger.(ÖëçÍ8­Ã¨í‡2J$1e1ec984-f6ae-4c6f-bdc5-f831bb228622
