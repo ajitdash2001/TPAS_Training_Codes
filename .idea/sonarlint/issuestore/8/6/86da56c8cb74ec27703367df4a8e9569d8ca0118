@@ -1,0 +1,11 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Çíİd8ÔÓÎ‹ˆ2J$6a5d42d5-0212-4f4d-ba82-ccca09f88804
+m	java:S106"+Replace this use of System.out by a logger.(Üş¯ 8ÜÓÎ‹ˆ2J$063e29dc-2740-4558-9e6b-31576c041e3b
+m
+java:S2140"*Use "java.util.Random.nextLong()" instead.(Í„‰á8İÓÎ‹ˆ2J$5cc069c0-bdd3-4f13-bdea-77eba30708ef
+r	java:S106"+Replace this use of System.out by a logger.(ãó¾Îşÿÿÿÿ8İÓÎ‹ˆ2J$66a39314-f182-4a70-ad51-2d8ea7fc3a71
+r	java:S106"+Replace this use of System.out by a logger.(Õáúşÿÿÿÿ8İÓÎ‹ˆ2J$ed47cbbc-ff7e-4f50-b6a5-153f9be56e8b
+r	java:S106("+Replace this use of System.out by a logger.(°ª¡ôÿÿÿÿÿ8ßÓÎ‹ˆ2J$145d03d3-1a5b-4c49-9159-acd7d6995294
+m	java:S106*"+Replace this use of System.out by a logger.(®šøù8ßÓÎ‹ˆ2J$e830479c-5882-429e-be30-833e49cbe87e
+r	java:S106-"+Replace this use of System.out by a logger.(‚Ô®×úÿÿÿÿ8ßÓÎ‹ˆ2J$f662254f-acf0-4903-adf1-6db725bca333
+m	java:S1060"+Replace this use of System.out by a logger.(ëÉÁ…8ßÓÎ‹ˆ2J$e7fbf39f-3634-44ab-91e4-94a9589dc600

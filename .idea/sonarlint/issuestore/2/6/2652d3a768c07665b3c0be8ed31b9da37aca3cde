@@ -1,0 +1,12 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Çíİd8Ûø’‹ˆ2J$464fde3f-fcfa-4a02-871a-99f54f913781
+m	java:S106"+Replace this use of System.out by a logger.(ë»ËŒ8åø’‹ˆ2J$471684b4-fe96-437c-95d5-78637d26c9ff
+r	java:S106"+Replace this use of System.out by a logger.(†Ÿ´Áùÿÿÿÿ8åø’‹ˆ2J$7c379be6-48f1-4426-9c8d-00efb453cb2d
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8çø’‹ˆ2J$1bb22912-2dde-47eb-aba6-9602577b6df5
+l	java:S106"+Replace this use of System.out by a logger.(ØÎé98èø’‹ˆ2J$52c30f61-aff3-4e12-8e66-97423f820f32
+m	java:S106#"+Replace this use of System.out by a logger.(°Ë–8èø’‹ˆ2J$3f4aa1d2-755a-40c9-861a-8df06709fe9b
+x
+java:S2446&"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8èø’‹ˆ2J$63ddb188-699f-4c67-8d6b-d44c96d28fad
+m	java:S106V"+Replace this use of System.out by a logger.(’È·‘8£È ‹ˆ2J$9f8515b3-6dbe-4824-b17d-bf116f36929d
+m	java:S106Y"+Replace this use of System.out by a logger.(ÛĞüŠ8£È ‹ˆ2J$eef051ad-f86e-411a-b60b-c41fc5e55b43

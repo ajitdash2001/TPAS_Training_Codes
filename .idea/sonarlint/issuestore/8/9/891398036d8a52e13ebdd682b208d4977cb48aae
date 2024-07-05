@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿüí¤8¿„‡ˆ2J$7c889655-1b27-4431-bdef-8fc8251f7842
+ƒ
+java:S1854";Remove this useless assignment to local variable "average".(ğ•Ó¤ıÿÿÿÿ8Ñ¸Œˆ2J$5c453d97-28a7-4cab-9656-70b8fb1cf17d
+m	java:S106"+Replace this use of System.out by a logger.(Œ¼üÒ8Ë„‡ˆ2J$76ad7a1f-43a5-469e-8c19-3112ee4c664b
+m	java:S106"+Replace this use of System.out by a logger.(×©ë”8Ë„‡ˆ2J$e6325c1f-d67d-431d-b1dc-6f07f1b606e1
+t
+java:S1481",Remove this unused "average" local variable.(ğ•Ó¤ıÿÿÿÿ8×¸Œˆ2J$d5436ec9-e17b-4967-b79c-586595d1c73d
+m	java:S106"+Replace this use of System.out by a logger.(¥şØĞ8ÌìŒˆ2J$54240ac9-b1d2-4624-81d1-7d585748214b
+m	java:S106!"+Replace this use of System.out by a logger.(ÖØ‹»8±ˆ2J$75746147-7a5a-467f-a7f5-4bbf5d502c15

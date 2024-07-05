@@ -1,0 +1,13 @@
+
+k
+java:S1604&"(Make this anonymous inner class a lambda(À„ó˜8·ÄºŒˆ2J$1d035548-f721-45f1-8d54-fbaba102b52a
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÛÛ¡ûÿÿÿÿJ$43201cbf-f4df-4999-9103-071faa5c79b3
+r	java:S106"+Replace this use of System.out by a logger.(‡ˆ²Ùýÿÿÿÿ8¾ÄºŒˆ2J$4e3b238c-320f-4f19-bd39-06aa1677e662
+m
+java:S2140"*Use "java.util.Random.nextLong()" instead.(Í„‰á8¿ÄºŒˆ2J$03c5d878-1ed1-4142-8ac6-f5b858bdcfd9
+m	java:S106"+Replace this use of System.out by a logger.(’°Ÿ»8ÀÄºŒˆ2J$e8a5f87a-4ecb-4720-ac03-c52bbdf0adff
+m	java:S106"+Replace this use of System.out by a logger.(Èßâí8ÁÄºŒˆ2J$0676413e-7e0b-486c-8661-9d0d8c322698
+m
+java:S2140"*Use "java.util.Random.nextLong()" instead.(Í„‰á8ÁÄºŒˆ2J$2e0ea645-eb56-4bda-ae09-456fc67a9398
+r	java:S106"+Replace this use of System.out by a logger.(˜Ìñéÿÿÿÿÿ8ÁÄºŒˆ2J$ec7d9aba-6821-48b5-bf1f-825d905b1b8a
+m	java:S106*"+Replace this use of System.out by a logger.(‰¡ûŒ8ÃÄºŒˆ2J$a226a798-c077-4e73-b6d1-741295f1e17f
